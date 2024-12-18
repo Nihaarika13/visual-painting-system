@@ -1,1 +1,1 @@
-# visual-painting-system
+# Visual-Painting-System
